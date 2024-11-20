@@ -31,7 +31,8 @@ This project provides an interactive student enrollment form with functionality 
 
 3. **Data Fetching and Display**:
    - When a student’s `stuId` is entered, the form fetches their existing data and pre-fills the form for updates.
-   - ![image](https://github.com/user-attachments/assets/e2905dfc-ab72-4fec-a0b1-612ab2e86aa0)
+   - ![image](https://github.com/user-attachments/assets/8576567b-4d42-4524-ad57-2a99e9c43917)
+
 
 
 ## Code Overview
